@@ -20,3 +20,9 @@ Chat system for arras.io (diep2). Press 'H' key to show chat textbox and players
     - List all players with their id (type '/list').    
 - Swear filter (RegEx)
     - A few entries are included to filter words such as 'sh*t'.
+    
+# Demo
+    - http://arras.cc:3000
+    - http://arras.cc:4000
+    - http://arras.cc:5000
+    

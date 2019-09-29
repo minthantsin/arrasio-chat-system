@@ -21,8 +21,6 @@ Chat system for arras.io (diep2). Press 'H' key to show chat textbox and players
 - Swear filter (RegEx)
     - A few entries are included to filter words such as 'sh*t'.
 
-Please take a look at Wiki page for some screenshots.
-
 # Demo Server 1
 Initial loading time may take a while.
 http://arras.cc:3000
@@ -34,4 +32,26 @@ http://arras.cc:4000
 # Demo Server 3
 Initial loading time may take a while.
 http://arras.cc:5000
+
+# Screenshots
+Here are some screenshots of the game with chat system in action.
+
+[Start page]
+https://imgur.com/1wbe7Ij
+
+[Chat message to all]
+https://imgur.com/cCQeX02
+
+[Typing a private message]
+https://imgur.com/39irZso
+
+[A player receives a PM in yellow color]
+https://imgur.com/Hxx95fy
+
+[Chat command - authentication]
+https://imgur.com/SMgZxwQ
+
+[Colored chats]
+https://imgur.com/fDUKJHk
+
     

@@ -1,6 +1,9 @@
 # arrasio-chat-system
 Chat system for arras.io (diep2). Press 'H' key to show chat textbox and players list dropdown list.
 
+# Changes required
+- Find "Chat System" for the changes required in app.js, canvas.js, globals.js, server.js, etc.
+
 # Features
 - Basic authentication
     - Type '/pwd PassWord' in chat to authenticate

@@ -24,6 +24,11 @@ Chat system for arras.io (diep2). Press 'H' key to show chat textbox and players
 - Swear filter (RegEx)
     - A few entries are included to filter words such as 'sh*t'.
 
+# Tools used to build and run the game:
+- gulp
+- npm
+- Node.js
+
 # Demo Server 1
 Initial loading time may take a while.
 http://arras.cc

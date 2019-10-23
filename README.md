@@ -1,3 +1,6 @@
+# Original arras.io Source Code
+https://github.com/nepphhh/arrasio
+
 # arrasio-chat-system
 Chat system for arras.io (diep2). Press 'H' key to show chat textbox and players list dropdown list.
 

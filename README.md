@@ -38,11 +38,11 @@ http://arras.cc
 
 # Demo Server 2
 Initial loading time may take a while.
-http://arras.cc:4000
+http://arras.pro
 
 # Demo Server 3
 Initial loading time may take a while.
-http://arras.vip
+http://arras.fun
 
 # Screenshots
 Here are some screenshots of the game with chat system in action.

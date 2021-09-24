@@ -34,15 +34,11 @@ Chat system for arras.io (diep2). Press 'H' key to show chat textbox and players
 
 # Demo Server 1
 Initial loading time may take a while.
-http://arras.cc
+https://tankster.io
 
 # Demo Server 2
 Initial loading time may take a while.
-http://arras.pro
-
-# Demo Server 3
-Initial loading time may take a while.
-http://arras.fun
+https://sarra.io
 
 # Screenshots
 Here are some screenshots of the game with chat system in action.
